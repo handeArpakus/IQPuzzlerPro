@@ -1,10 +1,10 @@
-CS319 Section 1 Group I 
+#CS319 Section 1 Group I 
 
 Group name: Unknown
 
 Project name: IQPuzzlerPro
 
-Group Members
+#Group Members
 Zeynep Ayça Çam - 21502269
 
 Elif Beril Şaylı - 21502795
